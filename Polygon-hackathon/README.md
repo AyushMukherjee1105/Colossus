@@ -1,6 +1,6 @@
 # Classic, Easy to understand Hard Hat Project 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project showcases a simple application of the Hardhat development environment. It includes a contract and a corresponding test case, a script that deploys the contract, and a task implementation that lists the available accounts. This serves as a basic example of how to use Hardhat for developing and testing smart contracts.
 
 Try running some of the following tasks:
 
